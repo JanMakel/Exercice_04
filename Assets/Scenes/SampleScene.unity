@@ -445,7 +445,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5d4036cc591dfc42a5502a16597aa4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ofb: 0
   x: 4
   y: 4
   z: 4
@@ -560,7 +559,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1018444811}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5bf9c31defda8f94486f5000d039bc92, type: 3}
   m_Name: 
@@ -783,12 +782,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2024335352}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 21d5c226bb88a0243842d2d65fa196eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  centimetres: 156
+  centimetres: 45
 --- !u!65 &2024335354
 BoxCollider:
   m_ObjectHideFlags: 0
