@@ -9,11 +9,12 @@ public class Ex_01 : MonoBehaviour
 
     private void moneybox(int coins)
     {
-        Debug.Log($"In the money box you have a total of {coins} coins");
+        money = money + coins;
+        Debug.Log($"In the money box you have a total of {money} coins");
     }
 
     private void Start()
     {
-        moneybox(money);
+        moneybox(5);
     }
 }
